@@ -1,0 +1,67 @@
+{
+  "cadastro": [
+    {
+      "id": "39a1",
+      "nome": "lucas",
+      "sobrenome": "medeiros",
+      "cpf": "60888741523",
+      "idade": "24"
+    },
+    {
+      "id": "bc77",
+      "nome": "pedro",
+      "sobrenome": "lucas",
+      "cpf": "45612378954",
+      "idade": "32"
+    },
+    {
+      "id": "ad59",
+      "nome": "jose",
+      "sobrenome": "filho",
+      "cpf": "78912345671",
+      "idade": "21"
+    },
+    {
+      "id": "096a",
+      "nome": "karla",
+      "sobrenome": "raissa",
+      "cpf": "14712348956",
+      "idade": "42"
+    },
+    {
+      "id": "4b10",
+      "nome": "julia",
+      "sobrenome": "lima",
+      "cpf": "36945612347",
+      "idade": "17"
+    },
+    {
+      "id": "105b",
+      "nome": "maria ",
+      "sobrenome": "vitoria",
+      "cpf": "25878910236",
+      "idade": "19"
+    },
+    {
+      "id": "9ee9",
+      "nome": "amanda",
+      "sobrenome": "perereira",
+      "cpf": "41230214567",
+      "idade": "30"
+    },
+    {
+      "id": "9c56",
+      "nome": "gabriel",
+      "sobrenome": "luiz",
+      "cpf": "84562102374",
+      "idade": "25"
+    },
+    {
+      "id": "9577",
+      "nome": "vitoria",
+      "sobrenome": "ingrid",
+      "cpf": "45321687902",
+      "idade": "20"
+    }
+  ]
+}
